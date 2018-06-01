@@ -1,5 +1,5 @@
 SET client_min_messages TO warning;
-CREATE EXTENSION IF NOT EXISTS pgtap FROM unpackaged;
+CREATE EXTENSION IF NOT EXISTS pgtap;
 RESET client_min_messages;
 
 BEGIN;

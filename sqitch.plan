@@ -4,3 +4,4 @@
 
 appschema 2018-05-31T12:33:56Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Adds flipr app schema
 users [appschema] 2018-06-01T20:55:10Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Creates table to track our users
+flips [appschema] 2018-06-04T12:21:14Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Create table for flips

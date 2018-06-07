@@ -7,3 +7,4 @@ users [appschema] 2018-06-01T20:55:10Z Evgeny Sysoletin <evgeny.sysoletin@gmail.
 flips [appschema] 2018-06-04T12:21:14Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Create table for flips
 insert_user [appschema users] 2018-06-04T13:38:53Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Creates a function to insert user
 change_pass [appschema users] 2018-06-06T16:31:12Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Creates a function to change password
+@v1.0.0-r1 2018-06-07T12:26:03Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Tag v1.0.0-r1

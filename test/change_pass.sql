@@ -22,7 +22,7 @@ SELECT ok(
   EXISTS(
     SELECT 1 FROM flipr.users
       WHERE nickname = 'evgenys'
-        AND password = md5('bar')
+        AND password = crypt('bar', password)
   ),
   'The password should have been changed'
 );
@@ -34,7 +34,7 @@ SELECT ok(
   EXISTS(
     SELECT 1 FROM flipr.users
       WHERE nickname = 'evgenys'
-        AND password = md5('bar')
+        AND password = crypt('bar', password)
   ),
   'The password should be unchanged'
 );

@@ -10,3 +10,4 @@ change_pass [appschema users] 2018-06-06T16:31:12Z Evgeny Sysoletin <evgeny.syso
 @v1.0.0-r1 2018-06-07T12:26:03Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Tag v1.0.0-r1
 pgcrypto 2018-06-07T15:04:59Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Loads pgcrypro extension
 insert_user [insert_user@v1.0.0-r1 pgcrypto] 2018-06-11T19:13:59Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Changes insert_user to use pgcrypto
+change_pass [change_pass@v1.0.0-r1 pgcrypto] 2018-06-11T19:41:28Z Evgeny Sysoletin <evgeny.sysoletin@gmail.com> # Changes change_pass to use pgcrypto
